@@ -10,7 +10,7 @@ Duration: JULY 9TH,2024 TO SEPTEMBER 9TH,2024
 
 Domain: Web Development
 
-Objective
+**Objective**
 
 This is a simple web application that collects user information through a contact form using HTML, CSS, and JavaScript. The form includes fields for the user's name, email, and a message. After submission, the information is processed by JavaScript, and a confirmation message is displayed on the page.
 
